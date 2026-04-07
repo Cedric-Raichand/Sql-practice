@@ -10,6 +10,8 @@ CREATE TABLE members (
 INSERT INTO members ( first_name, last_name, age, salary )
 VALUES ( "Cedric", "Raichand", 54, 86 ),
 ( "Courage", "Hills", 47, 43 ),
+("Phanuel", "Sesinam", 5, 7),
+("Janelle", "Eyram", 67, 89),
 ( "Jett", "Edinam", 63, 84 ),
 ( "Jonas", "Bullion", 48, 73 ),
 ( "Cubarsi", "David", 74, 23 ),
