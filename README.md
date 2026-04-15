@@ -10,7 +10,7 @@ It focuses on understanding how databases store, manage, and retrieve data.
 - Database creation
 - Tables and relationships
 - Data types
-- CRUD operations
+- CRUD operations and its functions
 - SQL queries (`SELECT`, `INSERT`, `UPDATE`, `DELETE`)
 - Basic database design
 
