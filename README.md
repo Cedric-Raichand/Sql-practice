@@ -21,3 +21,4 @@ It focuses on understanding how databases store, manage, and retrieve data.
 - Understand relational databases
 - Write efficient SQL queries
 - Prepare for backend and data-driven applications
+- Perfect my skills in relational database to build secure systems 
